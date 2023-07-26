@@ -1,2 +1,3 @@
-# adminhub
-Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+# fleet dashboard
+
+fleet management dashboard with responsive website using HTML, CSS, dan JavaScript
